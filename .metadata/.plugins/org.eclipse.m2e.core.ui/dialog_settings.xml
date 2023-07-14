@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\muskangupta\Downloads\SpringSecurityJWT"/>
+			<item value="C:\Users\muskangupta\Downloads\RestApi"/>
+			<item value="C:\Users\muskangupta\Downloads\REST"/>
+			<item value="C:\Users\muskangupta\Downloads\demoExample\demoExample"/>
+			<item value="C:\Users\muskangupta\Downloads\demo\demo"/>
+			<item value="C:\Users\muskangupta\Downloads\demo"/>
+			<item value="C:\Users\muskangupta\Downloads\Azure Application\Azure-Application"/>
+			<item value="C:\Users\muskangupta\Downloads\Azure Application"/>
+			<item value="C:\Users\muskangupta\Downloads\Azure Application (1)"/>
+			<item value="C:\Users\muskangupta\Desktop\Microservice\contact_service"/>
+			<item value="C:\Users\muskangupta\Desktop\Microservice\user_service"/>
+			<item value="C:\Users\muskangupta\Downloads\smartContactManager"/>
+			<item value="C:\Users\muskangupta\Downloads\DBSpring"/>
+			<item value="C:\Users\muskangupta\Downloads\MyWebApp"/>
+			<item value="C:\Users\muskangupta\Downloads\BootDemo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="REST"/>
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="836"/>
+		<item key="x" value="720"/>
+		<item key="y" value="0"/>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\muskangupta\Downloads\RESTful_Project\demo\src\main\java\com\example\ResTfulProjectApplication.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="com.nagarro"/>
+		</list>
+		<list key="name">
+			<item value="Junit5-demo"/>
+		</list>
+		<list key="artifactId">
+			<item value="Junit5-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

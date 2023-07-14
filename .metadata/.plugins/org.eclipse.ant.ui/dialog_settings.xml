@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="AntPropertiesFileSelectionDialog.showAll" value="false"/>
+	<item key="AntPropertiesFileSelectionDialog.lastContainer" value="/RestApi"/>
+	<section name="org.eclipse.ant.internal.ui.views.AntView">
+		<item key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;antView&gt;&#x0D;&#x0A;&lt;project error=&quot;true&quot; name=&quot;&amp;lt;Unable to parse as an Ant buildfile&amp;gt;&quot; path=&quot;/DemoHib/pom.xml&quot;/&gt;&#x0D;&#x0A;&lt;project error=&quot;true&quot; name=&quot;&amp;lt;Unable to parse as an Ant buildfile&amp;gt;&quot; path=&quot;/contact_service/target/classes/META-INF/maven/com.contact/contact_service/pom.xml&quot;/&gt;&#x0D;&#x0A;&lt;project error=&quot;true&quot; name=&quot;&amp;lt;Unable to parse as an Ant buildfile&amp;gt;&quot; path=&quot;/RestApi/pom.xml&quot;/&gt;&#x0D;&#x0A;&lt;filterInternalTargets value=&quot;false&quot;/&gt;&#x0D;&#x0A;&lt;/antView&gt;"/>
+	</section>
+</section>
